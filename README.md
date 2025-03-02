@@ -37,6 +37,7 @@
 
 - **Power BI Desktop**   
 - Archivos CSV de https://www.kaggle.com/datasets/sashakorovkina/ycombinator-all-funded-companies-dataset/data  
+- Archivos CSV en el repositorio https://github.com/NauziX/PowerBI/tree/main/Data
 
 ## Instrucciones de Uso
 
